@@ -3,7 +3,7 @@
 #sidebar TableOfContents
 
 = 1. Background =
-
+<wiki:gadget url="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/CWR_logo_thumb.png" height="200" border="0" /> 
 http://gap-analysis-cwr.googlecode.com/svn/wiki/img/CWR_logo_thumb.png Adapting agriculture to climate change is one of the most urgent challenges of our time. There is, quite simply, no more important step we can take to prepare for climate change than to ensure that the crops that feed humanity are adapted. The need for new crop varieties that can be productive in the new climates of the future is now widely recognized. It is much less well known that our ability to breed these new varieties cannot be taken for granted. The greatest source of untapped diversity, and in particular the richest source of diversity for adaptive characteristics needed to confront the challenges of climate change, are the wild relatives of our crops. Not only are these largely uncollected, and therefore unevaluated and unavailable to plant breeders and thus to farmers, many are also at risk of extinction. This project will ensure that we win the race to collect crop wild relatives, protect them, and prepare them for use in plant breeding programmes in time to breed new crop varieties adapted to new climates. 
 
 http://gap-analysis-cwr.googlecode.com/svn/wiki/img/usePGR.png 
@@ -75,4 +75,3 @@ _*Figure 4* Countries where there is a Kew Gardens' project collaborator (either
  * Ramírez-Villegas J, Khoury C, Jarvis A, Debouck DG, Guarino L (2010) A Gap Analysis Methodology for Collecting Crop Genepools: A Case Study with _Phaseolus_ Beans. PLoS ONE 5:e13497.
  * Maxted N, Dulloo E, V Ford-Lloyd B, Iriondo JM, Jarvis A (2008) Gap analysis: a tool for complementary genetic conservation assessment. Diversity and Distributions 14:1018-1030.
  * Scott JM, Schipper J (2006) Gap analysis: a spatial tool for conservation planning. Sinauer, Sunderland.
-

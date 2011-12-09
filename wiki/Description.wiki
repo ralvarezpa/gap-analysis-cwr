@@ -15,9 +15,9 @@ This 10-year initiative is focused on the species related to 26 crops of major i
  * evaluate them for useful traits; and
  * make the resulting information widely available.
 
-<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/focusGenepools.png" alt="Germplasm" height="" width="" align="center"/> 
+<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/focusGenepools.png" alt="Genepools and taxa" height="" width="" align="middle"/> 
 
-_*Figure 1* The 26 genepools of interest for the project_
+_*Figure 1* The 26 genepools and its proportion of taxa of interest for the project_
 
 The pre-bred material incorporating the desired traits will be directly fed into ongoing, active and successful breeding initiatives aimed at helping poor farmers in developing countries increase food production, and made available to on-farm improvement efforts and farmers as appropriate. The project will run for ten years. It will introduce a range of new and exciting adaptive options for agriculture that might otherwise have been lost, whilst helping protect biodiversity from disappearing. The project will help build capacity in developing countries and will produce valuable information to assist in complementary on-farm and in situ efforts. Importantly, it will further enhance the implementation of the International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGRFA).
 

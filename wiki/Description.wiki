@@ -2,7 +2,7 @@
 #labels Featured
 #sidebar TableOfContents
 
-http://ccafs-analogues.googlecode.com/svn/wiki/img/ccafs_logo.png
+*project logo*
 
 = 1. Introduction =
 

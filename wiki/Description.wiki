@@ -2,7 +2,7 @@
 #labels Featured
 #sidebar TableOfContents
 
-http://gap-analysis-cwr.googlecode.com/svn/wiki/img/CWR_logo_thumb.png
+										http://gap-analysis-cwr.googlecode.com/svn/wiki/img/CWR_logo_thumb.png
 
 = 1. Introduction =
 

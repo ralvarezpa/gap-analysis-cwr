@@ -25,14 +25,14 @@ The pre-bred material incorporating the desired traits will be directly fed into
 
 A portfolio of plants, with the characteristics required for adapting the world’s most important food crops to climate change, is collected, protected and prepared in a form that plant breeders can readily use to produce varieties adapted to future climatic conditions that farmers in the developing world will soon be encountering.
 
-
 = 3. Our strategy =
 
 Currently, germplasm collecting missions demand high amounts of resources (i.e. skilled staff, travelling expenses, time, etc), in order to find relevant material to conserve ex-situ. We, as Crop Wild Relative (CWR) conservation and gap analysis team team, have the challenge of developing an approach that will allow collectors (and other people related with ex-situ and in-situ conservation) to know which areas around the world, traits and taxa still unrepresented among international genebank collections managed by CGIAR supported centres.
 
 At the same time, we aim at collecting and improving the availability of Plant Genetic Resources, and enhance their usability in crop breeding. We're closely linked to the CGIAR Research Program on Climate Change, Agriculture and Food Security ([CCAFS http://ccafs.cgiar.org]). Our 10-year plan follows the structure of Figure 2.
 
-http://gap-analysis-cwr.googlecode.com/svn/wiki/img/10YearPlan.png
+
+<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/10YearPlan.png" alt="Genepools and taxa" height="400" width="" align="middle"/> 
 
 _*Figure 2* Our 10-year research, collecting and utilisation plan_
 

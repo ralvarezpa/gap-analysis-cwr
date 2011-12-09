@@ -45,15 +45,15 @@ _*Figure 3* Genebank collections available in the public system_
 
 The project is funded by the Norwegian Government, and coordinated by:
 
-<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/TrustLogo.jpg" alt="Public System" height="" width=""/> 
+<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/TrustLogo.jpg" alt="Public System" height="40" width=""/> 
 
-<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/CIATLogo.jpg" alt="Public System" height="" width=""/> 
-
-
-<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/KewLogo.jpg" alt="Public System" height="" width=""/> 
+<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/CIATLogo.jpg" alt="Public System" height="40" width=""/> 
 
 
-<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/UoBLogo.jpg" alt="Public System" height="" width=""/> 
+<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/KewLogo.jpg" alt="Public System" height="40" width=""/> 
+
+
+<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/UoBLogo.jpg" alt="Public System" height="40" width=""/> 
 
 Plus a number of collaborators at the national and international levels (Figure 4)
 

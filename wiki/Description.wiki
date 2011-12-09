@@ -15,7 +15,7 @@ This 10-year initiative is focused on the species related to 26 crops of major i
  * evaluate them for useful traits; and
  * make the resulting information widely available.
 
-<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/focusGenepools.png" alt="Genepools and taxa" height="" width="" align="middle"/> 
+<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/focusGenepools.png" alt="Genepools and taxa" height="300" width="" align="middle"/> 
 
 _*Figure 1* The 26 genepools and its proportion of taxa of interest for the project_
 

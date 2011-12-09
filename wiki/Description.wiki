@@ -31,14 +31,13 @@ Currently, germplasm collecting missions demand high amounts of resources (i.e. 
 
 At the same time, we aim at collecting and improving the availability of Plant Genetic Resources, and enhance their usability in crop breeding. We're closely linked to the CGIAR Research Program on Climate Change, Agriculture and Food Security ([CCAFS http://ccafs.cgiar.org]). Our 10-year plan follows the structure of Figure 2.
 
-
-<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/10YearPlan.png" alt="Project plan" height="300" width="" align="middle"/> 
+<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/10YearPlan.png" alt="Project plan" height="300" width="467" align="middle"/> 
 
 _*Figure 2* Our 10-year research, collecting and utilisation plan_
 
 We make use of data in the public (Figure 3) and non-public system (not shown)
 
-http://gap-analysis-cwr.googlecode.com/svn/wiki/img/PublicSystem.png
+<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/PublicSystem.png" alt="Public System" height="300" width="" align="middle"/> 
 
 _*Figure 3* Genebank collections available in the public system_
 

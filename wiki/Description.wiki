@@ -57,7 +57,8 @@ The project is funded by the Norwegian Government, and coordinated by:
 
 Plus a number of collaborators at the national and international levels (Figure 4)
 
-http://gap-analysis-cwr.googlecode.com/svn/wiki/img/nationalCollaborators.png
+<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/nationalCollaborators.png
+" alt="Collaborators" height="300" width=""/> 
 
 _*Figure 4* Countries where there is a Kew Gardens' project collaborator (either national or international)_
 

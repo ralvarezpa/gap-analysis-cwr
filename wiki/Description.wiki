@@ -1,8 +1,8 @@
-#summary What do we mean when we say "analogues"?
+#summary Adapting agriculture to climate change through the conservation and use of plant genetic resources
 #labels Featured
 #sidebar TableOfContents
 
-= 1. Introduction =
+= 1. Background =
 
 http://gap-analysis-cwr.googlecode.com/svn/wiki/img/CWR_logo_thumb.png Adapting agriculture to climate change is one of the most urgent challenges of our time. There is, quite simply, no more important step we can take to prepare for climate change than to ensure that the crops that feed humanity are adapted. The need for new crop varieties that can be productive in the new climates of the future is now widely recognized. It is much less well known that our ability to breed these new varieties cannot be taken for granted. The greatest source of untapped diversity, and in particular the richest source of diversity for adaptive characteristics needed to confront the challenges of climate change, are the wild relatives of our crops. Not only are these largely uncollected, and therefore unevaluated and unavailable to plant breeders and thus to farmers, many are also at risk of extinction. This project will ensure that we win the race to collect crop wild relatives, protect them, and prepare them for use in plant breeding programmes in time to breed new crop varieties adapted to new climates.
 
@@ -24,36 +24,21 @@ A portfolio of plants, with the characteristics required for adapting the world�
 
 = 3. Conceptual framework =
 
-x,x,x
+Currently, germplasm collecting missions demand high amounts of resources (i.e. skilled staff, travelling expenses, time, etc), in order to find relevant material to conserve ex-situ. We, as Crop Wild Relative (CWR) conservation and gap analysis team team, have the challenge of developing an approach that will allow collectors (and other people related with ex-situ and in-situ conservation) to know which areas around the world, traits and taxa still unrepresented among international genebank collections managed by CGIAR supported centres.
 
 = 4. Contacts and development team =
  
- * Nora Castaneda, ...
- * Hector Tobon, ...
- * Holly Vincent, ...
- * Colin Khoury, ...
- * Julian Ramirez-Villegas (j.r.villegas@cgiar.org), PhD Scholar, School of Earth and Environment, University of Leeds, UK, -R developer
+ * Nora Castaneda, (n.p.castaneda@cgiar.org), PhD student and Researcher, University of Birmingham, UK
+ * Hector Tobon, (h.f.tobon@cgiar.org), Lead web and application developer, International Center for Tropical Agriculture (CIAT), Cali, Colombia
+ * Holly Vincent, (holly.vincent@gmail.com), PhD Student and Researcher, University of Birmingham, UK
+ * Colin Khoury, (c.khoury@cgiar.org), PhD Student and Researcher, Wageningen University, The Netherlands
+ * Julian Ramirez-Villegas (j.r.villegas@cgiar.org), PhD Student and Researcher, School of Earth and Environment, University of Leeds, UK
  * Dr. Andy Jarvis, Senior Scientist, International Center for Tropical Agriculture (CIAT), Project coordinator
 
 
 = 7. References =
 
- * Busby, J.R., 1991. BIOCLIM—a bioclimate analysis and prediction system. Plant Protection Quarterly, 6: 8-9.
- * Challinor, A.J., Ewert, F., Arnold, S., Simelton, E. and Fraser, E., 2009. Crops and climate change: progress, trends, and challenges in simulating impacts and informing adaptation. Journal of Experimental Botany, 60(10): 2775-2789.
- * Challinor, A.J. and Wheeler, T.R., 2008. Crop yield reduction in the tropics under climate change: Processes and uncertainties. Agricultural and Forest Meteorology, 148(3): 343-356.
- * Hallegatte, S., Hourcade, J.-C. and Ambrosi, P., 2007. Using climate analogues for assessing climate change economic impacts in urban areas. Climatic Change, 82(1): 47-60.
- * Hitz, S. and Smith, J., 2004. Estimating global impacts from climate change. Global Environmental Change Part A, 14(3): 201-218.
- * IPCC, 2000. Special Report on Emission Scenarios. IPCC, Geneva, Switzerland.
- * IPCC, 2007. IPCC Fourth Assessment Report: Climate Change 2007 (AR4). IPCC, Geneva, Switzerland.
- * Jarvis, A. et al., 2011. An Integrated Adaptation and Mitigation Framework for Developing Agricultural Research: Synergies and Trade-offs. Experimental Agriculture, 47: 185-203.
- * Jarvis, A., Ramirez, J., Anderson, B., Leibing, C. and Aggarwal, P., 2010. Scenarios of Climate Change Within the Context of Agriculture. Climate Change and Crop Production. CAB International.
- * Lobell, D.B. and Burke, M.B., 2008. Why are agricultural impacts of climate change so uncertain? The importance of temperature relative to precipitation. Environmental Research Letters, 3(3): 034007.
- * Lobell, D.B. et al., 2008. Prioritizing Climate Change Adaptation Needs for Food Security in 2030. Science, 319(5863): 607-610.
- * Moss, R.H. et al., 2010. The next generation of scenarios for climate change research and assessment. Nature, 463(7282): 747-756.
- * PCMDI, 2007. IPCC Model Output. Available at: http://www.pcmdi.llnl.gov/ipcc/about_ipcc.php.
- * R-Development-Core-Team, 2011. R: A language and environment for statistical computing. R Foundation for Statistical Computing., Vienna, Austria.
- * Ramirez, J. and Jarvis, A., 2010. Downscaling Global Circulation Model Outputs: The Delta Method. Decision and Policy Analysis Working Paper No. 1. Decision and Policy Analysis. International Center for Tropical Agriculture (CIAT), Cali, Colombia.
- * Roudier, P., Sultan, B., Quirion, P. and Berg, A., 2011. The impact of future climate change on West African crop yields: What does the recent literature say? Global Environmental Change, 21(3): 1073-1083.
- * Thornton, P.K., Jones, P.G., Ericksen, P.J. and Challinor, A.J., 2011. Agriculture and food systems in sub-Saharan Africa in a 4°C+ world. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 369(1934): 117-136.
- * Williams, J.W., Jackson, S.T. and Kutzbach, J.E., 2007. Projected distributions of novel and disappearing climates by 2100 AD. Proceedings of the National Academy of Sciences, 104(14): 5738-5742.
+ * Ramírez-Villegas J, Khoury C, Jarvis A, Debouck DG, Guarino L (2010) A Gap Analysis Methodology for Collecting Crop Genepools: A Case Study with _Phaseolus_ Beans. PLoS ONE 5:e13497.
+ * Maxted N, Dulloo E, V Ford-Lloyd B, Iriondo JM, Jarvis A (2008) Gap analysis: a tool for complementary genetic conservation assessment. Diversity and Distributions 14:1018-1030.
+ * Scott JM, Schipper J (2006) Gap analysis: a spatial tool for conservation planning. Sinauer, Sunderland.
 

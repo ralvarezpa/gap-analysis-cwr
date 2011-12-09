@@ -3,7 +3,6 @@
 #sidebar TableOfContents
 
 = 1. Background =
-<wiki:gadget url="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/CWR_logo_thumb.png" height="200" border="0" /> 
 http://gap-analysis-cwr.googlecode.com/svn/wiki/img/CWR_logo_thumb.png Adapting agriculture to climate change is one of the most urgent challenges of our time. There is, quite simply, no more important step we can take to prepare for climate change than to ensure that the crops that feed humanity are adapted. The need for new crop varieties that can be productive in the new climates of the future is now widely recognized. It is much less well known that our ability to breed these new varieties cannot be taken for granted. The greatest source of untapped diversity, and in particular the richest source of diversity for adaptive characteristics needed to confront the challenges of climate change, are the wild relatives of our crops. Not only are these largely uncollected, and therefore unevaluated and unavailable to plant breeders and thus to farmers, many are also at risk of extinction. This project will ensure that we win the race to collect crop wild relatives, protect them, and prepare them for use in plant breeding programmes in time to breed new crop varieties adapted to new climates. 
 
 http://gap-analysis-cwr.googlecode.com/svn/wiki/img/usePGR.png 
@@ -48,10 +47,10 @@ _*Figure 3* Genebank collections available in the public system_
 
 The project is funded by the Norwegian Government, and coordinated by:
 
-http://gap-analysis-cwr.googlecode.com/svn/wiki/img/TrustLogo.jpg
-http://gap-analysis-cwr.googlecode.com/svn/wiki/img/CIATLogo.jpg
-http://gap-analysis-cwr.googlecode.com/svn/wiki/img/KewLogo.jpg
-http://gap-analysis-cwr.googlecode.com/svn/wiki/img/UoBLogo.jpg
+http://gap-analysis-cwr.googlecode.com/svn/wiki/img/TrustLogo2.jpg
+http://gap-analysis-cwr.googlecode.com/svn/wiki/img/CIATLogo2.jpg
+http://gap-analysis-cwr.googlecode.com/svn/wiki/img/KewLogo2.jpg
+http://gap-analysis-cwr.googlecode.com/svn/wiki/img/UoBLogo2.jpg
 
 Plus a number of collaborators at the national and international levels (Figure 4)
 

@@ -1,0 +1,9 @@
+#summary Website details
+#labels 
+#sidebar TableOfContents
+
+= Website description and main features =
+
+Some text
+
+(c) Gap Analysis of Crop Wild Relatives

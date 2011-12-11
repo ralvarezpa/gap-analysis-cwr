@@ -11,9 +11,9 @@
    * [DataMeth 2.2. Methodology]
    * [DataResu 2.3. Main results]   
  * *3. Immediate threats analysis*
-   * [ThreatDesc 2.1. Description]
-   * [ThreatMeth 2.2. Methodology]
-   * [ThreatResu 2.3. Main results]   
+   * [ThreatDesc 3.1. Description]
+   * [ThreatMeth 3.2. Methodology]
+   * [ThreatResu 3.3. Main results]   
  * *4. The gap analysis methodology*
    * [GapDesc 3.1. What do we aim for?]
    * [GapMeth 3.2. Gap analysis methodology]   

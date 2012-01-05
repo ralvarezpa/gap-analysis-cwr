@@ -4,6 +4,8 @@
    * [Description]   
  * *1. Website and database*
    * [DB 1.1. Database structure and management?]
+   * [Georref 1.1.1 Database Google Georreferentiation]
+   * [Filter 1.1.2 Database Filtering Tool]
    * [Website 1.2. Website details]
    * [Blog 1.3. Our blog]
  * *2. Data*

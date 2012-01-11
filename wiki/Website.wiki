@@ -17,7 +17,7 @@ Burgundy
 HTML code:	#8F3D27
 RGB code:	R: 143 G: 61 B: 39
 
-_Other tones to use in combination in the website_
+*_Other tones to use in combination in the website_*
 
 Tones derived from green
 

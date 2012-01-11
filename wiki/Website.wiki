@@ -3,7 +3,7 @@
 
 = Website description and main features =
 
-_Logo colours' codes_
+*_Logo colours' codes_*
 
 Blue
 HTML code:	#203996

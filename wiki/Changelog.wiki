@@ -1,13 +1,15 @@
-#summary One-sentence summary of this page.
+#summary This page tries to hold the corrections and improvements occurred in the CWR checklist and specimens database (v.1.3 and later versions)
 
-= Introduction =
+== Introduction ==
 
-Add your content here.
+When registering any changelog to the CWR checklist and specimens database, please bear in mind the following suggestions:
 
+  * Each registered change should have the date in which it was done (please follow this format: YYYY-MM-DD)
 
-= Details =
+  * Each changelog should have a brief explanation of the change/improvement made
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * Please use bullets for each changelog
+
+== Changelogs ==
+
+  *

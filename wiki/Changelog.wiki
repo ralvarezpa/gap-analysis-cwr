@@ -20,4 +20,4 @@ When registering any changelog to the CWR checklist and specimens database, plea
 
   * 2011-02-05: TABLE breeding_ref: changed id to int, auto increment
 
-  * 2011-02-05: TABLE concepts_ref: changed to match my database.
+  * 2011-02-05: TABLE Lit_concepts_ref: fields were changed so the whole reference is in one field. Fields now are: ID, Concept_ID, Webpage, Ref.

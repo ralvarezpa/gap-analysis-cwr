@@ -1,4 +1,5 @@
 #summary This page tries to hold the corrections and improvements occurred in the CWR checklist and specimens database (v.1.3 and later versions)
+#labels Phase-Implementation,Phase-Design
 
 == Introduction ==
 
@@ -11,6 +12,9 @@ When registering any changelog to the CWR checklist and specimens database, plea
   * Please use bullets for each changelog
 
 == Changelogs ==
+  * 2012-02-17: TABLE LIT_classification_ref renamed to Classification_ref
+
+  * 2012-02-17: TABLE LIT_classification_ref - Field Type for columns ID and Taxon_ID changed from DOUBLE to INTEGER.
 
   * 2011-02-05: NEW TABLE:  breeding_category_lookup - this is the table that holds the breeding use categories taken from GRIN
 

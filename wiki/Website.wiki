@@ -30,7 +30,7 @@ Usar http://colorschemedesigner.com/ para generar la paleta de colores
 
 *_Navigation panel_*
 
-<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/Navigation_panel.png" alt="Navigation panel" height="" width="" align="middle"/>
+<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/Navigation_panel.jpg" alt="Navigation panel" height="" width="" align="middle"/>
 
 
 

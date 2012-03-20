@@ -12,6 +12,9 @@ When registering any changelog to the CWR checklist and specimens database, plea
   * Please use bullets for each changelog
 
 == Changelogs ==
+
+  * 2012-03-20: New column named "Scientific_Name" was added to the table "species". (This will help us to improve the performance in the search section).
+
   * 2012-02-17: TABLE LIT_classification_ref renamed to Classification_ref
 
   * 2012-02-17: TABLE LIT_classification_ref - Field Type for columns ID and Taxon_ID changed from DOUBLE to INTEGER.

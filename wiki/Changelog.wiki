@@ -13,6 +13,8 @@ When registering any changelog to the CWR checklist and specimens database, plea
 
 == Changelogs ==
 
+  * 2012-04-12: New table named "raw_occurrences" was added to the database.
+
   * 2012-03-26: New column named "ISO_Alpha2" was added to the table "countries".
 
   * 2012-03-20: New column named "Scientific_Name" was added to the table "species". (This will help us to improve the performance in the search section).

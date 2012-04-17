@@ -13,6 +13,16 @@ When registering any changelog to the CWR checklist and specimens database, plea
 
 == Changelogs ==
 
+  * 2012-04-16: table "Herbaria_data", Change: Set ID to be auto incremental
+
+  * 2012-04-16: table "Concepts", Change: Set ID to be auto incremental
+
+  * 2012-04-16: table "Distribution", Change: Set ID to be auto incremental
+
+  * 2012-04-16: table "Distribution_detail", Change: Set ID to be auto incremental
+
+  * 2012-04-16: table "Classification_ref" Change: Dropped column 'Description' and renamed 'Path' to 'Webpage'
+
   * 2012-04-12: New table named "raw_occurrences" was added to the database.
 
   * 2012-03-26: New column named "ISO_Alpha2" was added to the table "countries".

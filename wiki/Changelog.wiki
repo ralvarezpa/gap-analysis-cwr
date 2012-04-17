@@ -13,8 +13,6 @@ When registering any changelog to the CWR checklist and specimens database, plea
 
 == Changelogs ==
 
-  * 2012-04-16: table "Herbaria_data", Change: Set ID to be auto incremental
-
   * 2012-04-16: table "Concepts", Change: Set ID to be auto incremental
 
   * 2012-04-16: table "Distribution", Change: Set ID to be auto incremental

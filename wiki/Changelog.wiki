@@ -13,6 +13,8 @@ When registering any changelog to the CWR checklist and specimens database, plea
 
 == Changelogs ==
 
+  * 2012-04-16: Column "ID" in the table "Herbaria_data" was deleted. A new primary key was assigned as the combination between the columns "Taxon_ID" and "Code". (In this process some repeated records were also deleted).
+
   * 2012-04-16: table "Concepts", Change: Set ID to be auto incremental
 
   * 2012-04-16: table "Distribution", Change: Set ID to be auto incremental

@@ -9,6 +9,7 @@
      * [Filter 1.1.3 Database Filtering Tool]
    * [Website 1.2. Website details]
    * [Blog 1.3. Our blog]
+   * [Maps 1.4 Atlas application]
  * *2. Data*
    * [DataDesc 2.1. Description]
    * [DataMeth 2.2. Methodology]

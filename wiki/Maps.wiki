@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+
+Following page contains ideas-inspiration to display mapping products of the Project.
+
+= Details =
+===1 j reveal box===
+*_Desired improvements_*
+  * Remove CIAT's logo
+  * Use same font as in the maps app
+  * Suggested display and text:
+<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/j-reveal-box.png" alt="j reveal box" height="400" width="" align="middle"/> 

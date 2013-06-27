@@ -15,8 +15,14 @@ The "j reveal box" is the first screen welcoming users to the maps application. 
 === Requirements ===
   * Search bar must have an autocomplete option that allows users to select the scientific name they're searching for.
   * Let users to download information as KMZ and CSV
+  * Link with corresponding CWR inventory taxon page
 
-  * Results
+_* Data to be shown *_
+  * Occurrence data (data points)
+  * Potential distribution map (presence-absence format)
+  * Potential gap map (presence-absence format)
+
+_* Results *_
 
 <img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/speciesBoxes.png" alt="j reveal box" height="400" width="" align="middle"/> 
 

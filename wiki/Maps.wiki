@@ -46,4 +46,4 @@ _* Data to be shown: *_
 
 _* Results prototype:*_
 
-<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/genepoolBox.png" alt="j reveal box" height="400" width="" align="middle"/> 
+<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/genepoolBox.png" alt="j reveal box" height="500" width="" align="middle"/> 

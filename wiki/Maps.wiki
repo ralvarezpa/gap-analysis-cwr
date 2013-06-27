@@ -31,13 +31,18 @@ _* Results prototype:*_
 === Requirements ===
   * Search bar must have an autocomplete option, for both common and scientific names
   * Let users to download information as KMZ and CSV
-  * Link with corresponding CWR inventory taxon page
+  * Link with corresponding CWR inventory crop page
 
 _* Data to be shown: *_
   * Summary layers:
-   * Hola
-   *
+   * Current richness (based on occurrence data)
+   * Potential richness map
+   * Potential gap richness map
+
   * Single taxon layers:
+   * Occurrence data (data points)
+   * Potential distribution map (presence-absence format)
+   * Potential gap map (presence-absence format)
 
 _* Results prototype:*_
 

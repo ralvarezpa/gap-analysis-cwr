@@ -26,7 +26,7 @@ _* Data to be shown: *_
 
 _* Results prototype:*_
 
-<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/speciesBoxes.png" alt="j reveal box" height="600" width="" align="middle"/> 
+<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/speciesBoxes.png" alt="j reveal box" height="600" width="800" align="middle"/> 
 
 ==3 Search by gene pools ==
 === Requirements ===
@@ -47,4 +47,4 @@ _* Data to be shown: *_
 
 _* Results prototype:*_
 
-<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/genepoolBox.png" alt="j reveal box" height="600" width="" align="middle"/> 
+<img src="http://gap-analysis-cwr.googlecode.com/svn/wiki/img/genepoolBox.png" alt="j reveal box" height="600" width="800" align="middle"/> 

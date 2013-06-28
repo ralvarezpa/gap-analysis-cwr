@@ -1,7 +1,7 @@
 #summary One-sentence summary of this page.
 #sidebar TableOfContents
 
-Following page contains ideas-inspiration to display mapping products of the Project.
+Following page contains a description of the Project products to display as maps.
 
 ==1 j reveal box==
 The "j reveal box" is the first screen welcoming users to the maps application. It contains details regarding the information that users will be able to visualize.
@@ -16,7 +16,7 @@ _* Suggested display and text:*_
 ==2 Search by species ==
 === Requirements ===
   * Search bar must have an autocomplete option that allows users to select the scientific name they're searching for.
-  * Let users to download information as KMZ and CSV
+  * Let users download information as KMZ and CSV
   * Link with corresponding CWR inventory taxon page
 
 _* Data to be shown: *_
@@ -31,7 +31,7 @@ _* Results prototype:*_
 ==3 Search by gene pools ==
 === Requirements ===
   * Search bar must have an autocomplete option, for both common and scientific names
-  * Let users to download information as KMZ and CSV
+  * Let users download information as KMZ and CSV
   * Link with corresponding CWR inventory crop page
 
 _* Data to be shown: *_
